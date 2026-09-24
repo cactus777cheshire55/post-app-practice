@@ -1,0 +1,117 @@
+<mxfile host="65bd71144e">
+    <diagram id="Z0xn20IKvDucVOq3mioc" name="ページ-1">
+        <mxGraphModel dx="760" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="SSfl3vHXYtChcyiudum5-33" connectable="0" parent="1" style="group" value="" vertex="1">
+                    <mxGeometry height="400" width="710" x="30" y="10" as="geometry"/>
+                </mxCell>
+                <mxCell id="SSfl3vHXYtChcyiudum5-24" edge="1" parent="SSfl3vHXYtChcyiudum5-33" source="SSfl3vHXYtChcyiudum5-1" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="SSfl3vHXYtChcyiudum5-8">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="SSfl3vHXYtChcyiudum5-25" connectable="0" parent="SSfl3vHXYtChcyiudum5-24" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="「ログイン」を押す" vertex="1">
+                    <mxGeometry relative="1" x="0.0286" y="2" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="SSfl3vHXYtChcyiudum5-1" parent="SSfl3vHXYtChcyiudum5-33" style="rounded=0;whiteSpace=wrap;html=1;" value="ログイン画面" vertex="1">
+                    <mxGeometry height="60" width="270" x="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="SSfl3vHXYtChcyiudum5-2" parent="SSfl3vHXYtChcyiudum5-33" style="rounded=0;whiteSpace=wrap;html=1;" value="ユーザー登録画面" vertex="1">
+                    <mxGeometry height="60" width="270" x="180" y="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="SSfl3vHXYtChcyiudum5-4" edge="1" parent="SSfl3vHXYtChcyiudum5-33" source="SSfl3vHXYtChcyiudum5-1" style="edgeStyle=none;html=1;entryX=0.111;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;" target="SSfl3vHXYtChcyiudum5-2" value="「アカウント作成を押す」">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="SSfl3vHXYtChcyiudum5-6" edge="1" parent="SSfl3vHXYtChcyiudum5-33" source="SSfl3vHXYtChcyiudum5-2" style="edgeStyle=none;html=1;entryX=0.784;entryY=0.953;entryDx=0;entryDy=0;entryPerimeter=0;" target="SSfl3vHXYtChcyiudum5-1" value="「ログインはこちら」を押す">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="SSfl3vHXYtChcyiudum5-11" edge="1" parent="SSfl3vHXYtChcyiudum5-33" source="SSfl3vHXYtChcyiudum5-7" style="edgeStyle=none;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="SSfl3vHXYtChcyiudum5-2" value="「新規登録」を押す">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="SSfl3vHXYtChcyiudum5-7" parent="SSfl3vHXYtChcyiudum5-33" style="rounded=0;whiteSpace=wrap;html=1;" value="トップ画面" vertex="1">
+                    <mxGeometry height="60" width="190" y="230" as="geometry"/>
+                </mxCell>
+                <mxCell id="SSfl3vHXYtChcyiudum5-15" edge="1" parent="SSfl3vHXYtChcyiudum5-33" source="SSfl3vHXYtChcyiudum5-8" style="edgeStyle=none;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0.004;exitY=0.867;exitDx=0;exitDy=0;exitPerimeter=0;" target="SSfl3vHXYtChcyiudum5-7">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="SSfl3vHXYtChcyiudum5-16" connectable="0" parent="SSfl3vHXYtChcyiudum5-15" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="「ログアウト」を押す" vertex="1">
+                    <mxGeometry relative="1" x="0.0079" y="-1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="SSfl3vHXYtChcyiudum5-8" parent="SSfl3vHXYtChcyiudum5-33" style="rounded=0;whiteSpace=wrap;html=1;" value="投稿一覧画面" vertex="1">
+                    <mxGeometry height="60" width="150" x="510" y="230" as="geometry"/>
+                </mxCell>
+                <mxCell id="SSfl3vHXYtChcyiudum5-28" edge="1" parent="SSfl3vHXYtChcyiudum5-33" source="SSfl3vHXYtChcyiudum5-9" style="edgeStyle=none;html=1;" target="SSfl3vHXYtChcyiudum5-8" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="SSfl3vHXYtChcyiudum5-29" connectable="0" parent="SSfl3vHXYtChcyiudum5-28" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="「更新」を押す" vertex="1">
+                    <mxGeometry relative="1" x="-0.1259" y="2" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="SSfl3vHXYtChcyiudum5-30" edge="1" parent="SSfl3vHXYtChcyiudum5-33" source="SSfl3vHXYtChcyiudum5-9" style="edgeStyle=none;html=1;" target="SSfl3vHXYtChcyiudum5-8" value="">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="SSfl3vHXYtChcyiudum5-9" parent="SSfl3vHXYtChcyiudum5-33" style="rounded=0;whiteSpace=wrap;html=1;" value="投稿編集画面" vertex="1">
+                    <mxGeometry height="50" width="220" x="490" y="350" as="geometry"/>
+                </mxCell>
+                <mxCell id="SSfl3vHXYtChcyiudum5-10" edge="1" parent="SSfl3vHXYtChcyiudum5-33" source="SSfl3vHXYtChcyiudum5-7" style="edgeStyle=none;html=1;entryX=0.004;entryY=0.38;entryDx=0;entryDy=0;entryPerimeter=0;" target="SSfl3vHXYtChcyiudum5-1" value="「ログインを押す」">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="SSfl3vHXYtChcyiudum5-13" edge="1" parent="SSfl3vHXYtChcyiudum5-33" source="SSfl3vHXYtChcyiudum5-7" style="edgeStyle=none;html=1;entryX=0.015;entryY=0.147;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.013;exitY=0.12;exitDx=0;exitDy=0;exitPerimeter=0;" target="SSfl3vHXYtChcyiudum5-8">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="SSfl3vHXYtChcyiudum5-14" connectable="0" parent="SSfl3vHXYtChcyiudum5-13" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="「投稿一覧へ」を押す" vertex="1">
+                    <mxGeometry relative="1" x="-0.0229" y="-2" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="SSfl3vHXYtChcyiudum5-19" edge="1" parent="SSfl3vHXYtChcyiudum5-33" source="SSfl3vHXYtChcyiudum5-8" style="edgeStyle=orthogonalEdgeStyle;html=1;innerLoopWaypoints=1;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" target="SSfl3vHXYtChcyiudum5-8">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="585" y="230"/>
+                            <mxPoint x="585" y="210"/>
+                            <mxPoint x="710" y="210"/>
+                            <mxPoint x="710" y="270"/>
+                            <mxPoint x="670" y="270"/>
+                            <mxPoint x="670" y="275"/>
+                            <mxPoint x="660" y="275"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="SSfl3vHXYtChcyiudum5-20" connectable="0" parent="SSfl3vHXYtChcyiudum5-19" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="「削除」を押す" vertex="1">
+                    <mxGeometry relative="1" x="0.2353" y="-1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="SSfl3vHXYtChcyiudum5-22" edge="1" parent="SSfl3vHXYtChcyiudum5-33" source="SSfl3vHXYtChcyiudum5-2" style="edgeStyle=none;html=1;entryX=0.08;entryY=-0.053;entryDx=0;entryDy=0;entryPerimeter=0;" target="SSfl3vHXYtChcyiudum5-8">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="SSfl3vHXYtChcyiudum5-23" connectable="0" parent="SSfl3vHXYtChcyiudum5-22" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="「登録」を押す" vertex="1">
+                    <mxGeometry relative="1" x="-0.052" y="-3" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="SSfl3vHXYtChcyiudum5-26" edge="1" parent="SSfl3vHXYtChcyiudum5-33" source="SSfl3vHXYtChcyiudum5-8" style="edgeStyle=none;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" target="SSfl3vHXYtChcyiudum5-9">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="SSfl3vHXYtChcyiudum5-27" connectable="0" parent="SSfl3vHXYtChcyiudum5-26" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="「編集」を押す" vertex="1">
+                    <mxGeometry relative="1" x="0.104" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="SSfl3vHXYtChcyiudum5-31" edge="1" parent="SSfl3vHXYtChcyiudum5-33" source="SSfl3vHXYtChcyiudum5-9" style="edgeStyle=none;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" target="SSfl3vHXYtChcyiudum5-8">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="SSfl3vHXYtChcyiudum5-32" connectable="0" parent="SSfl3vHXYtChcyiudum5-31" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="「キャンセル」を押す" vertex="1">
+                    <mxGeometry relative="1" x="0.1016" y="-1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
