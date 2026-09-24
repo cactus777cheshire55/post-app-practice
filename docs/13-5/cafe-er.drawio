@@ -1,0 +1,38 @@
+<mxfile host="65bd71144e">
+    <diagram id="85V0SaMKnzxCbplisWPg" name="ページ-1">
+        <mxGraphModel dx="760" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="1VjGgA9uVZmoce1b3Zwx-8" connectable="0" parent="1" style="group" value="" vertex="1">
+                    <mxGeometry height="280" width="680" x="40" y="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="1VjGgA9uVZmoce1b3Zwx-1" parent="1VjGgA9uVZmoce1b3Zwx-8" style="rounded=0;whiteSpace=wrap;html=1;" value="oreders" vertex="1">
+                    <mxGeometry height="60" width="200" as="geometry"/>
+                </mxCell>
+                <mxCell id="1VjGgA9uVZmoce1b3Zwx-6" edge="1" parent="1VjGgA9uVZmoce1b3Zwx-8" source="1VjGgA9uVZmoce1b3Zwx-2" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=ERmandOne;startFill=0;endArrow=ERzeroToMany;endFill=0;" target="1VjGgA9uVZmoce1b3Zwx-3">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="1VjGgA9uVZmoce1b3Zwx-7" connectable="0" parent="1VjGgA9uVZmoce1b3Zwx-6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="1つの商品は、複数の注文明細に現れることがある" vertex="1">
+                    <mxGeometry relative="1" x="0.0506" y="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="1VjGgA9uVZmoce1b3Zwx-2" parent="1VjGgA9uVZmoce1b3Zwx-8" style="rounded=0;whiteSpace=wrap;html=1;" value="products" vertex="1">
+                    <mxGeometry height="60" width="200" y="220" as="geometry"/>
+                </mxCell>
+                <mxCell id="1VjGgA9uVZmoce1b3Zwx-4" edge="1" parent="1VjGgA9uVZmoce1b3Zwx-8" source="1VjGgA9uVZmoce1b3Zwx-3" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=ERoneToMany;startFill=0;endArrow=ERmandOne;endFill=0;" target="1VjGgA9uVZmoce1b3Zwx-1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="1VjGgA9uVZmoce1b3Zwx-5" connectable="0" parent="1VjGgA9uVZmoce1b3Zwx-4" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="１件の注文は、1つ以上の注文明細を持つ" vertex="1">
+                    <mxGeometry relative="1" x="0.0441" y="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="1VjGgA9uVZmoce1b3Zwx-3" parent="1VjGgA9uVZmoce1b3Zwx-8" style="rounded=0;whiteSpace=wrap;html=1;" value="order_items" vertex="1">
+                    <mxGeometry height="60" width="280" x="400" y="110" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
