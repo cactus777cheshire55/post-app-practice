@@ -1,0 +1,179 @@
+<mxfile host="65bd71144e">
+    <diagram id="47_48iioq_ac4yqRGTCt" name="ページ-1">
+        <mxGraphModel dx="760" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="zFh0tFt6XMFYDGDEr3-E-35" connectable="0" parent="1" style="group" value="" vertex="1">
+                    <mxGeometry height="490" width="720" x="50" y="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="zFh0tFt6XMFYDGDEr3-E-5" edge="1" parent="zFh0tFt6XMFYDGDEr3-E-35" source="zFh0tFt6XMFYDGDEr3-E-1" style="edgeStyle=none;html=1;endArrow=none;endFill=0;">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="60" y="490" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="zFh0tFt6XMFYDGDEr3-E-1" parent="zFh0tFt6XMFYDGDEr3-E-35" style="rounded=0;whiteSpace=wrap;html=1;" value="お客様" vertex="1">
+                    <mxGeometry height="60" width="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="zFh0tFt6XMFYDGDEr3-E-6" edge="1" parent="zFh0tFt6XMFYDGDEr3-E-35" source="zFh0tFt6XMFYDGDEr3-E-2" style="edgeStyle=none;html=1;endArrow=none;endFill=0;">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="260" y="480.79998779296875" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="zFh0tFt6XMFYDGDEr3-E-2" parent="zFh0tFt6XMFYDGDEr3-E-35" style="rounded=0;whiteSpace=wrap;html=1;" value="アプリ" vertex="1">
+                    <mxGeometry height="60" width="120" x="200" as="geometry"/>
+                </mxCell>
+                <mxCell id="zFh0tFt6XMFYDGDEr3-E-7" edge="1" parent="zFh0tFt6XMFYDGDEr3-E-35" source="zFh0tFt6XMFYDGDEr3-E-3" style="edgeStyle=none;html=1;endArrow=none;endFill=0;">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="460" y="480" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="zFh0tFt6XMFYDGDEr3-E-3" parent="zFh0tFt6XMFYDGDEr3-E-35" style="rounded=0;whiteSpace=wrap;html=1;" value="ﾃﾞｰﾀﾍﾞｰｽ" vertex="1">
+                    <mxGeometry height="60" width="120" x="400" as="geometry"/>
+                </mxCell>
+                <mxCell id="zFh0tFt6XMFYDGDEr3-E-8" edge="1" parent="zFh0tFt6XMFYDGDEr3-E-35" source="zFh0tFt6XMFYDGDEr3-E-4" style="edgeStyle=none;html=1;endArrow=none;endFill=0;">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="660" y="480" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="zFh0tFt6XMFYDGDEr3-E-4" parent="zFh0tFt6XMFYDGDEr3-E-35" style="rounded=0;whiteSpace=wrap;html=1;" value="外部の決済サービス" vertex="1">
+                    <mxGeometry height="60" width="120" x="600" as="geometry"/>
+                </mxCell>
+                <mxCell id="zFh0tFt6XMFYDGDEr3-E-9" edge="1" parent="zFh0tFt6XMFYDGDEr3-E-35" style="endArrow=classic;html=1;" value="">
+                    <mxGeometry height="50" relative="1" width="50" as="geometry">
+                        <mxPoint x="60" y="90" as="sourcePoint"/>
+                        <mxPoint x="260" y="90" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="zFh0tFt6XMFYDGDEr3-E-26" connectable="0" parent="zFh0tFt6XMFYDGDEr3-E-9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="選んだ商品と個数を送る" vertex="1">
+                    <mxGeometry relative="1" x="-0.052" y="4" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="zFh0tFt6XMFYDGDEr3-E-12" edge="1" parent="zFh0tFt6XMFYDGDEr3-E-35" style="endArrow=classic;html=1;" value="">
+                    <mxGeometry height="50" relative="1" width="50" as="geometry">
+                        <mxPoint x="260" y="130" as="sourcePoint"/>
+                        <mxPoint x="460" y="130" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="zFh0tFt6XMFYDGDEr3-E-27" connectable="0" parent="zFh0tFt6XMFYDGDEr3-E-12" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="商品の値段と、売り切れかどうかを読む" vertex="1">
+                    <mxGeometry relative="1" x="0.118" as="geometry">
+                        <mxPoint x="-12" y="-10" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="zFh0tFt6XMFYDGDEr3-E-13" edge="1" parent="zFh0tFt6XMFYDGDEr3-E-35" style="endArrow=classic;html=1;" value="">
+                    <mxGeometry height="50" relative="1" width="50" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="380" y="210"/>
+                        </Array>
+                        <mxPoint x="260" y="210" as="sourcePoint"/>
+                        <mxPoint x="460" y="210" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="zFh0tFt6XMFYDGDEr3-E-15" connectable="0" parent="zFh0tFt6XMFYDGDEr3-E-13" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="注文と注文情報を書き込む" vertex="1">
+                    <mxGeometry relative="1" x="0.048" y="-2" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="zFh0tFt6XMFYDGDEr3-E-14" edge="1" parent="zFh0tFt6XMFYDGDEr3-E-35" style="endArrow=classic;html=1;" value="">
+                    <mxGeometry height="50" relative="1" width="50" as="geometry">
+                        <mxPoint x="460" y="160" as="sourcePoint"/>
+                        <mxPoint x="260" y="160" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="zFh0tFt6XMFYDGDEr3-E-28" connectable="0" parent="zFh0tFt6XMFYDGDEr3-E-14" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="商品の情報を返す" vertex="1">
+                    <mxGeometry relative="1" x="0.032" y="-3" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="zFh0tFt6XMFYDGDEr3-E-16" edge="1" parent="zFh0tFt6XMFYDGDEr3-E-35" style="endArrow=classic;html=1;" value="">
+                    <mxGeometry height="50" relative="1" width="50" as="geometry">
+                        <Array as="points"/>
+                        <mxPoint x="460" y="250" as="sourcePoint"/>
+                        <mxPoint x="260" y="250" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="zFh0tFt6XMFYDGDEr3-E-29" connectable="0" parent="zFh0tFt6XMFYDGDEr3-E-16" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="書き込めたことを事を返す" vertex="1">
+                    <mxGeometry relative="1" x="-0.168" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="zFh0tFt6XMFYDGDEr3-E-17" edge="1" parent="zFh0tFt6XMFYDGDEr3-E-35" style="endArrow=classic;html=1;" value="">
+                    <mxGeometry height="50" relative="1" width="50" as="geometry">
+                        <mxPoint x="260" y="270" as="sourcePoint"/>
+                        <mxPoint x="60" y="270" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="zFh0tFt6XMFYDGDEr3-E-30" connectable="0" parent="zFh0tFt6XMFYDGDEr3-E-17" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="注文番号と、支払に進む先を返す" vertex="1">
+                    <mxGeometry relative="1" x="0.072" y="2" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="zFh0tFt6XMFYDGDEr3-E-18" edge="1" parent="zFh0tFt6XMFYDGDEr3-E-35" style="endArrow=classic;html=1;" value="">
+                    <mxGeometry height="50" relative="1" width="50" as="geometry">
+                        <Array as="points"/>
+                        <mxPoint x="60" y="300" as="sourcePoint"/>
+                        <mxPoint x="660" y="300" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="zFh0tFt6XMFYDGDEr3-E-19" connectable="0" parent="zFh0tFt6XMFYDGDEr3-E-18" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="支払いの手続きをする" vertex="1">
+                    <mxGeometry relative="1" x="0.048" y="-2" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="zFh0tFt6XMFYDGDEr3-E-20" edge="1" parent="zFh0tFt6XMFYDGDEr3-E-35" style="endArrow=classic;html=1;" value="">
+                    <mxGeometry height="50" relative="1" width="50" as="geometry">
+                        <Array as="points"/>
+                        <mxPoint x="660" y="340" as="sourcePoint"/>
+                        <mxPoint x="260" y="340" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="zFh0tFt6XMFYDGDEr3-E-32" connectable="0" parent="zFh0tFt6XMFYDGDEr3-E-20" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="支払いが済んだ事を知らせる" vertex="1">
+                    <mxGeometry relative="1" x="-0.144" y="-3" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="zFh0tFt6XMFYDGDEr3-E-21" edge="1" parent="zFh0tFt6XMFYDGDEr3-E-35" style="endArrow=classic;html=1;" value="">
+                    <mxGeometry height="50" relative="1" width="50" as="geometry">
+                        <Array as="points"/>
+                        <mxPoint x="260" y="380" as="sourcePoint"/>
+                        <mxPoint x="460" y="380" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="zFh0tFt6XMFYDGDEr3-E-22" connectable="0" parent="zFh0tFt6XMFYDGDEr3-E-21" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="注文の状態を書き換える" vertex="1">
+                    <mxGeometry relative="1" x="0.048" y="-2" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="zFh0tFt6XMFYDGDEr3-E-23" edge="1" parent="zFh0tFt6XMFYDGDEr3-E-35" style="endArrow=classic;html=1;" value="書き換えられたことを返す">
+                    <mxGeometry height="50" relative="1" width="50" as="geometry">
+                        <mxPoint x="460" y="420" as="sourcePoint"/>
+                        <mxPoint x="260" y="420" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="zFh0tFt6XMFYDGDEr3-E-24" edge="1" parent="zFh0tFt6XMFYDGDEr3-E-35" style="endArrow=classic;html=1;" value="">
+                    <mxGeometry height="50" relative="1" width="50" as="geometry">
+                        <mxPoint x="260" y="470" as="sourcePoint"/>
+                        <mxPoint x="60" y="470" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="zFh0tFt6XMFYDGDEr3-E-34" connectable="0" parent="zFh0tFt6XMFYDGDEr3-E-24" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="注文完了画面を映す" vertex="1">
+                    <mxGeometry relative="1" x="-0.108" y="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="zFh0tFt6XMFYDGDEr3-E-25" edge="1" parent="zFh0tFt6XMFYDGDEr3-E-35" style="endArrow=classic;html=1;" value="">
+                    <mxGeometry height="50" relative="1" width="50" as="geometry">
+                        <mxPoint x="60" y="440" as="sourcePoint"/>
+                        <mxPoint x="260" y="440" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="zFh0tFt6XMFYDGDEr3-E-33" connectable="0" parent="zFh0tFt6XMFYDGDEr3-E-25" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="支払いを終えて戻ってくる" vertex="1">
+                    <mxGeometry relative="1" x="-0.052" y="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
